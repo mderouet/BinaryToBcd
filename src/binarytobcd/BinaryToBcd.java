@@ -65,7 +65,7 @@ public class BinaryToBcd {
             case 2:
                 return new int[]{0, 0, 1, 0};
             case 3:
-                return new int[]{0, 1, 1, 0};
+                return new int[]{0, 0, 1, 1};
             case 4:
                 return new int[]{0, 1, 0, 0};
             case 5:
